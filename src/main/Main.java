@@ -3,6 +3,6 @@ package main;
 public class Main {
 
     public static void main(String[] args) {
-    int l = 50;
+        int i = 1;
     }
 }
