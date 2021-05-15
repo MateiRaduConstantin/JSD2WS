@@ -3,6 +3,8 @@
 
 *.xml
 *.iml
+.idea
+*.patch
 
 # Log file
 *.log
